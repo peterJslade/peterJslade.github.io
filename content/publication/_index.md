@@ -3,6 +3,6 @@ banner:
   caption: ""
   image: ""
 cms_exclude: true
-title: Publications
+title: Research
 view: 4
 ---

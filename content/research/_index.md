@@ -15,9 +15,9 @@ sections:
     filters:
       folders:
       - publication
-    title: Recent publications
+    title: Publications
   design:
-    columns: "2"
+    columns: "1"
     view: compact
   id: publications
 ---

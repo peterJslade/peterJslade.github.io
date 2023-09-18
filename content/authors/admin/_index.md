@@ -4,11 +4,7 @@ email: ""
 first_name: Peter
 highlight_name: true
 last_name: Slade
-organizations:
-  - name: AREC, University of Saskatchewan
-    url: https://www.usask.ca/
 
-role: Associate professor, Canadian Canola Growers Association Chair
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,7 +25,11 @@ superuser: true
 title: Peter Slade
 ---
 
-I am an associate professor and the Canadian Canola Growers Association chair in agricultural policy in the Department of Agricultural and Resource Economics at the University of Saskatchewan.  I research two different areas: Canadian agricultural policy and the adoption of plant-based products/diets.  My current research projects, recent publications, and teaching are listed below.  
+I am an associate professor and the [Canadian Canola Growers Association](https://www.ccga.ca) chair in agricultural policy in the [Department of Agricultural and Resource Economics](https://agbio.usask.ca/departments/agricultural-and-resource-economics.php) at the [University of Saskatchewan](https://usask.ca).  I [research](/publication) two different areas: Canadian agricultural policy and the adoption of plant-based products/diets.    
+
+Email: peter.slade@usask.ca 
+
+Office: 3E78 Ag building
 
 
 {style="text-align: justify;"}
