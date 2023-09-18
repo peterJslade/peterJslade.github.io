@@ -5,7 +5,7 @@ first_name: Peter
 highlight_name: true
 last_name: Slade
 organizations:
-  - name: University of Saskatchewan
+  - name: AREC, University of Saskatchewan
     url: https://www.usask.ca/
 
 role: Associate professor, Canadian Canola Growers Association Chair
